@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aqmola Start",
+  "description": "Центральный хаб стартап-экосистемы Акмолинской области. Находите стартапы, события и консультируйтесь с AI-ментором.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
